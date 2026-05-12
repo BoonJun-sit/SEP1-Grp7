@@ -27,7 +27,13 @@ setup(
 
             "py_node = test_py_pkg.test:main",
             "robot_news_station = test_py_pkg.robot_news_station:main",
-            "smartphone = test_py_pkg.smartphone:main"
+            "smartphone = test_py_pkg.smartphone:main",
+            "number_publisher = test_py_pkg.number_publisher:main",
+            "number_counter = test_py_pkg.number_counter:main",
+            "add_two_ints_server = test_py_pkg.add_two_ints_server:main",
+            "add_two_ints_client_no_oop = test_py_pkg.add_two_ints_client_no_oop:main",
+            "add_two_ints_client = test_py_pkg.add_two_ints_client:main",
+            "hw_status_publisher = test_py_pkg.hardware_status_publisher:main"
             
         ],
     },
