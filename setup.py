@@ -33,7 +33,9 @@ setup(
             "add_two_ints_server = test_py_pkg.add_two_ints_server:main",
             "add_two_ints_client_no_oop = test_py_pkg.add_two_ints_client_no_oop:main",
             "add_two_ints_client = test_py_pkg.add_two_ints_client:main",
-            "hw_status_publisher = test_py_pkg.hardware_status_publisher:main"
+            "hw_status_publisher = test_py_pkg.hardware_status_publisher:main",
+            "led_panel = test_py_pkg.led_panel:main",
+            "battery = test_py_pkg.battery:main"
             
         ],
     },
